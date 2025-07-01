@@ -1,0 +1,122 @@
+.image {
+    width: 100%;
+    height: 300px;
+    
+   
+}
+
+
+
+.grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.profile {
+
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    vertical-align: top;
+    border-radius: 200px;
+    margin-top: 6px;
+    margin-right: 6px;
+
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.Name {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(165, 165, 165);
+}
+
+.views {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(177, 175, 175);
+    font-size: 15px;
+    margin-top: 2px;
+}
+
+.info {
+    display: inline-block;
+    width: 300px;
+    margin-top: 0px;
+}
+
+.image1 {
+    width: 100%;
+    height: 300px;
+}
+
+
+
+.profile1 {
+
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    vertical-align: top;
+    border-radius: 200px;
+    margin-top: 6px;
+    margin-right: 6px;
+
+}
+
+.info1 {
+    
+    width: 300px;
+    margin-top: 0px;
+    
+}
+
+
+
+.title1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.Name1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(165, 165, 165);
+}
+
+.views1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(177, 175, 175);
+    font-size: 15px;
+    margin-top: 2px;
+}
+.videogrid{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    column-gap: 16px;
+    row-gap: 40px;
+}
+.body{
+    margin: 0;
+    padding-top: 60px;
+    padding-left: 80px;
+    
+}
+.time{
+    background-color: black;
+    color: white;
+    position:absolute;
+    right:5px;
+    bottom: 8px;
+
+    
+}
+.timee{
+    position: relative;
+    
+}
+
+ 
